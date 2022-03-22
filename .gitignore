@@ -1,0 +1,6 @@
+.idea
+.vscode
+
+Docker/**/source
+
+.env
